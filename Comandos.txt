@@ -1,0 +1,17 @@
+ls
+lista de arquivos dentro da pasta atual
+
+cd + nome do caminho
+entra na pasta escolhida
+
+mkdir + nome da pasta
+cria uma pasta dentro do diretório
+
+git add + nome do arquivo
+pra subir o arquivo escolhido
+
+git add .
+pra subir tudo
+
+git config --global
+pra vincular a todos os repositórios
