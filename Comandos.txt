@@ -15,3 +15,6 @@ pra subir tudo
 
 git config --global
 pra vincular a todos os repositórios
+
+git commit -m "mensagem"
+faz o commit, faz o primeiro save
