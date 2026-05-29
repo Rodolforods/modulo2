@@ -1,0 +1,31 @@
+body {
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #007bff;
+
+}
+
+.container-flex {
+    background-color: #e0e0e0;
+    padding: 20px;
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 5px
+}
+
+.caixinha {
+    background-color: #ff4757;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 30px;
+    border-radius: 50px;
+    width: 60px;
+    text-align: center;
+}
